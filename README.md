@@ -1,7 +1,5 @@
 # weather_application
 
-## Image
-![IMAGE_DESCRIPTION]('Image/Simulator Screenshot - iPhone 14 Pro - 2023-07-23 at 23.29.23.png');
 
 
 
